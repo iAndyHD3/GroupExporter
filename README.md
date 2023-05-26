@@ -1,6 +1,6 @@
 # GroupExporter
 
-simple mod to export level free and used groups to a text file.
+simple mod to export free and used groups to a text file.
 [example here](https://github.com/iAndyHD3/GroupExporter/blob/main/example-output.txt)
 
 # Download

@@ -45,6 +45,7 @@ target("gdmod") --dll name and target name
 	add_deps("mat-dash")
 	add_deps("gd.h")
 	set_rundir("/bin")
+	add_syslinks("Comdlg32")
 	
 	--add minhook manually here since it doesnt seem to work when added with target
 	add_includedirs("libs/minhook/include")
